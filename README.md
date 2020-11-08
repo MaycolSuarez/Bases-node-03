@@ -1,4 +1,4 @@
 
-## BAses node 03
+## Bases node 03
 
-Aquí estuve aprendiend conceptos bases de node
+Aquí estuve aprendiendo conceptos bases de node
